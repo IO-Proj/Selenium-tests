@@ -7,7 +7,7 @@
   - `conda env create -n <env name> -f req.txt` (for *Anaconda* users)
 - make sure to have downloaded *geckodriver* (driver for *Mozilla Firefox* browser) and added to environment variable `PATH` 
 (read more [here](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/))
-- use command `python <test_name>` (for example: `python test_login_right.py`
+- use command `python <test_name>` (for example: `python test_login_right.py`)
 
 ## Further reading
 - https://selenium-python.readthedocs.io/installation.html#
