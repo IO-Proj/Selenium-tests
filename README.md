@@ -3,7 +3,7 @@
 To run all tests one has to:
 - prepare environment to run all scripts in Python:
   - `python -m pip install -r requirements.txt`
-  - `conda env create -n <env name> -f req.txt` (for Anaconda users)
+  - `conda env create -n <env name> -f req.txt` (for *Anaconda* users)
 - make sure to have downloaded *geckodriver* (driver for *Mozilla Firefox* browser) and added to environment variable `PATH` 
 (read more [here](https://www.selenium.dev/documentation/en/webdriver/driver_requirements/))
 - use command `python <test_name>` (for example: `python test_login_right.py`
