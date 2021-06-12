@@ -1,7 +1,7 @@
 # Black-box tests created with Selenium Python API
 
 To run all tests one has to:
-- prepare environment to run all scripts in Python:
+- prepare environment using one of below commands:
   - `python -m pip install -r requirements.txt`
   - `conda env create -n <env name> -f req.txt` (for *Anaconda* users)
 - make sure to have downloaded *geckodriver* (driver for *Mozilla Firefox* browser) and added to environment variable `PATH` 
