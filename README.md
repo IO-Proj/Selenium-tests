@@ -1,6 +1,7 @@
 # Black-box tests created with Selenium Python API
 
 To run all tests one has to:
+- install *Mozilla Firefox* browser (other browsers would require changes in code, especially those connected with the driver)
 - prepare environment using one of below commands:
   - `python -m pip install -r requirements.txt`
   - `conda env create -n <env name> -f req.txt` (for *Anaconda* users)
